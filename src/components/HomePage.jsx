@@ -40,9 +40,9 @@ const HomePage = () => {
                     <div class="card">
   <img src="https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">COLLEGE-HYDERABAD</h5>
+    <p class="card-text">Advance Technology and Pleasant Environment</p>
+    <a href="#" class="btn btn-primary">MORE DETAILS</a>
   </div>
 </div>
                     </div>
@@ -50,9 +50,9 @@ const HomePage = () => {
                     <div class="card">
   <img src="https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">COLLEGE-KERALA</h5>
+    <p class="card-text">Lots of Resources and Facilities</p>
+    <a href="#" class="btn btn-primary">MORE DETAILS</a>
   </div>
 </div>
                     </div>
@@ -60,9 +60,9 @@ const HomePage = () => {
                     <div class="card">
   <img src="https://www.bhg.com/thmb/H9VV9JNnKl-H1faFXnPlQfNprYw=/1799x0/filters:no_upscale():strip_icc()/white-modern-house-curved-patio-archway-c0a4a3b3-aa51b24d14d0464ea15d36e05aa85ac9.jpg" class="card-img-top" alt="..."/>
   <div class="card-body">
-    <h5 class="card-title">Card title</h5>
-    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-    <a href="#" class="btn btn-primary">Go somewhere</a>
+    <h5 class="card-title">COLLEGE-DELHI</h5>
+    <p class="card-text">Infrastructural and Transport Development</p>
+    <a href="#" class="btn btn-primary">MORE DETAILS</a>
   </div>
 </div>
                     </div>
